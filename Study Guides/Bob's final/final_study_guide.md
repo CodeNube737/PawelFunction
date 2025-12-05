@@ -24,8 +24,8 @@
 | [Chp4](#chp4) | 51 | ~588 | Yes (multiple Q&A) | [link](#chp4) |
 | [Chp5](#chp5) | 590 | 977 | Yes (multiple Q&A) | [link](#chp5) |
 | [Chp6](#chp6) | 979 | 1303 | Yes (multiple Q&A) | [link](#chp6) |
-| [wireless](#wireless) | 1305 | 1410 | Yes (Q&A) | [link](#wireless) |
-| [security](#security) | 1413 | 1600 | Yes (Q&A) | [link](#security) |
+| [wireless](#wireless-bob) | 1305 | 1410 | Yes (Q&A) | [link](#wireless) |
+| [security](#network-security) | 1413 | 1600 | Yes (Q&A) | [link](#network-security) |
 
 ## Testable Sections (Q&A)
 - [Chp4 Q&A: Page 4](#qa-page-4)
@@ -1616,4 +1616,5 @@ Add your notes below:
 | 3. Network     | Internet          | IP, ICMP, ARP                 |
 | 2. Data Link   | Network Access    | Ethernet, Wi-Fi, PPP          |
 | 1. Physical    | --------^-------- | Cables, Hubs, Repeaters       |
+
 
