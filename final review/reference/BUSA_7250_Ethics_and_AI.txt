@@ -1,0 +1,141 @@
+The Role of Global
+Corporations in AI Ethics
+
+The Role of Global Corporations in AI Ethics
+• Recently collected data indicates that there is substantial citizen
+support for the establishment of such organisational and procedural
+mechanisms.
+• An August 2024 Brookings survey found that: 55% of U.S.
+respondents support hiring corporate ethicists; 67% of respondents
+favor companies having a code of ethics; 66% believe that companies
+should have an AI review board; 62% think there should be an AI
+audit trail that shows how software designers (as well as the resulting
+AI product) makes decisions; 65% favor the implementation of AI
+training programmes for company staff; and 67% want companies to
+have remediation procedures when AI inflicts harm or damage to
+humans.
+
+The Role of Global Corporations in AI Ethics
+• The strong public support for these steps indicates people understand the
+ethical risks posed by artificial intelligence and emerging technologies, as
+well as the need for significant action by technology-based organisations.
+Individuals want companies to have a sense of urgency when it comes to
+taking meaningful action to protect them from rising inequity, bias, poor
+accountability, inadequate privacy protection, and a lack of transparency.
+• By embedding ethics into their infrastructure, corporations will be in a
+better position to develop, refine, and revise normative frameworks that
+can respond to new dynamics or emerging ethical challenges pertaining to
+AI, and provide such a standard to AI technology developers in start-ups
+with less capital and means. Such an effort of learning and tailoring ethics
+to applied AI will ultimately benefit discussions on the technology and its
+global governance.
+
+SOCIAL
+MEDIA
+BY
+THE
+NUMBERS
+
+The Role of Global Corporations in AI Ethics
+• The world is seeing extraordinary advances in artificial intelligence
+(AI). There are new applications in finance, defense, health care,
+criminal justice, education, and other key industries. Algorithms are
+improving fraud detection, health diagnoses, voice recognition
+systems, as well as advertisement targeting in e-commerce and
+political campaigns.
+• Yet, at the same time, there is growing concern regarding the ethical
+values embedded within AI and the extent to which algorithms
+respect basic human rights. Ethicists worry about a lack of
+transparency, poor accountability, rising inequity, and untethered bias
+in automated tools.
+
+The Role of Global Corporations in AI Ethics
+• In this situation, it is of utmost importance for large global
+corporations to take several steps to ensure that AI ethics are taken
+seriously, and with a sense of urgency. The first step could be to
+integrate organisational and procedural mechanisms that may help
+cope with complex ethical dilemmas. Having clear processes and
+avenues for deliberation will help prioritise and deal with particular
+problems.
+
+The Role of Global Corporations in AI Ethics
+• Hiring ethicists: It is crucial for companies to embed ethicists within their staffs to help
+them question whether potential AI applications are aligned with public interest and the
+ethical needs of a globalising world. Giving these individuals a seat at the table will help
+to ensure that ethics are taken seriously and appropriate deliberations take place when
+ethical dilemmas arise, which is likely to happen on a regular basis.
+• In addition, they can assist corporate leadership in creating an AI ethics culture and
+supporting corporate social responsibility within their organisations. These ethicists
+should make annual reports to their corporate boards outlining the issues they have
+addressed during the preceding year and how they resolved ethical aspects of those
+decisions.
+• Having an AI code of ethics: Companies should have a formal code of ethics that lays out
+their principles, processes, and methods for handling ethical issues during AI design and
+development. Those codes should be made public on the firm’s websites so that
+stakeholders and external parties can see how the company thinks about ethical issues
+and the choices its leaders have made in dealing with emerging technologies
+
+The Role of Global Corporations in AI Ethics
+
+“AI goes beyond the development of traditional product lines with
+narrow social implications. With its potential to distort basic human
+values and rights, it is crucial to train people on how to think about AI
+through all phases of its development”
+
+The Role of Global Corporations in AI Ethics
+Instituting AI review boards: Businesses should set up internal AI
+review boards that evaluate product lines and are integrated into a
+company’s decision-making. These boards should include a
+representative cross-section of the firm’s stakeholders and be
+consulted on AI-related decisions. Their portfolio should include
+development of particular product lines, the procurement of
+government contracts, and procedures used in developing AI products.
+
+The Role of Global Corporations in AI Ethics
+• Requiring AI audit trails: Companies should have AI audit trails that explain
+how particular algorithms were put together or what kinds of choices were
+made during the development process. This can provide some degree of
+“after-the-fact” transparency and explainability to outside parties.
+• Such tools would be especially relevant in cases that end up under litigation
+and need to be elucidated to judges or juries in case of consumer harm or civil
+suits. Since product liability law is likely to be the governing force in
+adjudicating AI harm, it is necessary to have audit trails that provide both
+external transparency and explainability.
+
+The Role of Global Corporations in AI Ethics
+• Implementing AI training programmes: Firms should have AI training
+programmes that not only address the technical aspects of development, but the
+ethical, legal, and societal ramifications. This would help software developers
+understand that their products should not assume or embed their own individual
+ethical values, but are part of a broader society that stretches around the globe
+with a stake in AI development.
+• AI goes beyond the development of traditional product lines with narrow social
+implications. With its potential to distort basic human values and rights, it is
+crucial to train people on how to think about AI through all phases of its
+development.
+
+The Role of Global Corporations in AI Ethics
+
+• Another integral aspect to AI training programmes would be teaching
+software designers about the perils of using poorly curated datasets
+to train their algorithms, providing them with the tools to not only
+identify bad training data, but also to provide them solutions and
+access to wider datasets curated with the assistance of ethicists.
+
+The Role of Global Corporations in AI Ethics
+Providing a means of remediation for AI damages or harm: There
+should be a means of remediation in cases where AI deployment
+results in consumer damages or harm. This could be through legal
+cases, arbitration, or some other negotiated process. This would allow
+those hurt by AI to address the problems and rectify the situation.
+Having clear procedures in place will help with this technology’s
+unintended consequences.
+
+The Role of Global Corporations in AI Ethics
+
+Individuals want companies to have a sense of urgency when it comes
+to taking meaningful action to protect them from rising inequity, bias,
+poor accountability, inadequate privacy protection, and a lack of
+transparency.
+
+
