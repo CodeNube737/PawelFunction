@@ -20,6 +20,7 @@ Corporations are separate legal entities from their owners, providing limited li
 
 Choosing the appropriate legal form depends on factors such as the desired level of control, liability tolerance, tax considerations, and the need for external investment. Each structure has distinct advantages and disadvantages that must be carefully weighed to align with the business's goals and risk profile.
 
+... wrong reference (below)... the better reference is lecture "LEGAL BUSINESS FORMS LIMITED ETC.pptx"
 *Reference: LECTURE SEVEN -CHAPTER 17 - MANAGING SERVICE ORGANIZATIONS and LTD LLP SOLE PROP.md – "Structure and Legal Business Forms" section*
 
 ---
@@ -69,3 +70,4 @@ The connection between the two statements lies in the way net income from the in
 Understanding how the income statement converts to the balance sheet is essential for analyzing financial performance, making informed decisions, and communicating results to stakeholders. Accurate financial reporting supports transparency, accountability, and strategic planning.
 
 *Reference: LECTURE 9 CHAPTER 15 CONTROL.md – "Basic Financials" section (Week 9 Material)*
+
