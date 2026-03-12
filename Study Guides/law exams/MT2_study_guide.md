@@ -277,27 +277,28 @@ This file will be used to collect summaries, notes, Q&A, and answers as you prog
 
 ## Slide Images
 
-Below are links to all 13 slides extracted from the lecture PDF:
+Below are all 13 slides extracted from the lecture PDF:
 
-1. [pdf_outputs/slide-01.png](pdf_outputs/slide-01.png)
-2. [pdf_outputs/slide-02.png](pdf_outputs/slide-02.png)
-3. [pdf_outputs/slide-03.png](pdf_outputs/slide-03.png)
-4. [pdf_outputs/slide-04.png](pdf_outputs/slide-04.png)
-5. [pdf_outputs/slide-05.png](pdf_outputs/slide-05.png)
-6. [pdf_outputs/slide-06.png](pdf_outputs/slide-06.png)
-7. [pdf_outputs/slide-07.png](pdf_outputs/slide-07.png)
-8. [pdf_outputs/slide-08.png](pdf_outputs/slide-08.png)
-9. [pdf_outputs/slide-09.png](pdf_outputs/slide-09.png)
-10. [pdf_outputs/slide-10.png](pdf_outputs/slide-10.png)
-11. [pdf_outputs/slide-11.png](pdf_outputs/slide-11.png)
-12. [pdf_outputs/slide-12.png](pdf_outputs/slide-12.png)
-13. [pdf_outputs/slide-13.png](pdf_outputs/slide-13.png)
+![Slide 1](pdf_outputs/slide-01.png)
+![Slide 2](pdf_outputs/slide-02.png)
+![Slide 3](pdf_outputs/slide-03.png)
+![Slide 4](pdf_outputs/slide-04.png)
+![Slide 5](pdf_outputs/slide-05.png)
+![Slide 6](pdf_outputs/slide-06.png)
+![Slide 7](pdf_outputs/slide-07.png)
+![Slide 8](pdf_outputs/slide-08.png)
+![Slide 9](pdf_outputs/slide-09.png)
+![Slide 10](pdf_outputs/slide-10.png)
+![Slide 11](pdf_outputs/slide-11.png)
+![Slide 12](pdf_outputs/slide-12.png)
+![Slide 13](pdf_outputs/slide-13.png)
 
 ---
 
 ## Last Slide (13)
 
-See the image: [pdf_outputs/slide-13.png](pdf_outputs/slide-13.png)
+See the article: Al and Chat-GPT
+https://www.thestar.com/news/canada/viral-video-of-joe-rogan-interviewing-justin-trudeau-was-generated-by-ai-and-highlights-danger/article_6bb1edd8-4305-59ca-a420-bb90fbbabc22.html
 
 ---
 
