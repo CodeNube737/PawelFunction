@@ -1,0 +1,529 @@
+word/abbreviation,description/unabbreviation,lecture#
+Individual (Sole Proprietor),A business owned and operated by one person; no legal distinction between owner and business,L1
+Partnership,A business owned by two or more persons carrying on business in common with a view to profit,L1
+Corporation,A legal entity separate from its owners (shareholders) can own property sue and be sued,L1
+Sole Proprietorship,Individual operates alone; simplest business model; owner has unlimited liability,L1
+Incorporation,The process of legally declaring a corporate entity as separate from its owners,L1
+GST Registration,Registering for Goods and Services Tax with the government required for certain businesses,L1
+Business Name,The official name under which a business operates,L1
+Business Checking Account,A separate bank account for business transactions,L1
+Liability Insurance,Insurance that protects a business from legal claims and lawsuits,L1
+Legal Adult,Person 18+ years of sound mind  not bankrupt (eligible to form a corporation),L1
+Open-Source Software,Software with source code available for use modification  and distribution under an open license,L2
+Open Source Definition (OSD),A set of criteria that software must meet to be considered open source,L2
+Freeware,Software distributed at no cost but usually with restricted rights,L2
+Shareware,Software distributed for free initially but requires payment for continued use or full features,L2
+Software Engineering,The discipline of designing  and maintaining software systems,L2
+Ethics in Product Design,Principles guiding the creation of products to ensure they are safe,L2
+Source Code,The human-readable instructions that make up a software program,L2
+Non-discriminatory Licensing,Licenses that do not restrict usage based on user or field,L2
+Integrity of Authorship,Ensuring original creators are credited for their work,L2
+GNU Public License (GPL),A widely used free software license that guarantees end users the freedom to use,L2
+Lesser General Public License (LGPL),A more permissive version of the GPL allowing linking with non-free programs,L2
+Mozilla License,An open source license developed by Mozilla,L2
+BSD License,A family of permissive free software licenses,L2
+Apache License,A permissive free software license written by the Apache Software Foundation,L2
+MIT-X11 License,A permissive free software license originating at MIT,L2
+Proprietary Software,Software that is owned by an individual or company with restrictions on use,L2
+Object Code,Compiled machine-readable version of software,L2
+Derivative Work,A work based on or derived from one or more existing works (e.g. modified software),L2
+Copyleft,A licensing practice that allows derivative works but requires them to be distributed under the same license,L2
+Permissive License,A license that allows proprietary modifications and redistribution,L2
+Aggregation,Combining multiple works on the same medium without creating a derivative work,L2
+Liability Disclaimer,A statement that limits legal responsibility for the use of software,L2
+Contributor,Anyone who adds to or improves a software project,L2
+Mediation,Facilitated negotiation by a neutral third party to resolve disputes,L2
+Forensics,Techniques for recovering and analyzing data from computers and devices,L2
+IP Address,A unique string of numbers identifying a device on a network,L2
+MAC Address,A hardware identifier for network devices,L2
+Anti-Spam Legislation (CASL),Canadian law regulating the sending of commercial electronic messages,L2
+Copyright Modernization Act,Canadian law updating copyright rules for the digital age,L2
+Due Diligence,Reasonable steps taken to avoid committing an offense,L2
+Jurisdiction,The authority of a legal body to govern or enforce laws,L2
+Software Engineering Code of Ethics,Set of principles guiding ethical professional conduct for software engineers,L2
+Public Interest,The welfare or well-being of the general public,L2
+Intellectual Property Law,Law protecting creations of the mind such as inventions and works of art,L2
+Transparency,Openness about design choices,L2
+Accountability,Responsibility for actions and decisions,L2
+Sustainability,Designing products to minimize environmental impact and promote resource efficiency,L2
+Inclusivity,Designing products to be accessible and usable by all people,L2
+User Welfare,Ensuring products do not harm users and are accessible,L2
+Economic Responsibility,Ethical sourcing,L2
+Pirated Software,Unauthorized copies of software,L2
+Misinformation,False or misleading information spread intentionally or unintentionally,L2
+Multi-user System,A computer system that allows multiple users to access resources,L2
+Legal Consequences,Penalties or actions resulting from breaking the law,L2
+Product Lifecycle,The stages a product goes through from design to disposal,L2
+Ergonomic Design,Design that optimizes products for human use and comfort,L2
+Accessibility,Designing products to be usable by people with disabilities,L2
+Data Protection,Measures to safeguard personal and sensitive information,L2
+Fair Labor,Ethical treatment and compensation of workers,L2
+Recyclability,Ability of a product or material to be recycled,L2
+Biodegradability,Ability of a product or material to decompose naturally,L2
+Plagiarism,Presenting someone else's work as your own,L2
+Legal Precedent,A previous court decision that influences future cases,L2
+Stakeholder,Anyone affected by or involved in a project or decision,L2
+Ambush (in arbitration),Withholding information until late in a dispute process,L2
+Creative Solution,An innovative resolution to a problem,L2
+Disclosure,Revealing relevant information to ensure transparency,L2
+Canadian Legal System,The structure and rules governing law in Canada,L3
+Constitution,The supreme law of Canada outlining government powers and rights,L3
+Common Law,Judge-made law based on precedent mainly from England,L3
+Legislation,Written laws enacted by a legislative body,L3
+Court Structure,The hierarchy and organization of courts in a legal system,L3
+Bi-jurisdictional,Having both federal and provincial legal authority,L3
+Charter of Rights and Freedoms,Part of the Constitution guaranteeing rights and freedoms to all residents,L3
+British North America Act (BNA Act),The original Constitution of Canada enacted in 1867,L3
+Patriation,The process of bringing the Constitution under Canadian control (1982),L3
+Federal Parliament,The national legislative body of Canada,L3
+Provincial Legislature,The legislative body of a Canadian province,L3
+Jurisdiction,The authority to make legal decisions and judgments,L3
+Civil Law,A legal system based on written codes used in Quebec,L3
+Halakha,Jewish religious law,L3
+Canon Law,Ecclesiastical law of the Christian Church,L3
+Islamic Law (Sharia),Religious law forming part of the Islamic tradition,L3
+Statute,A written law passed by a legislative body,L3
+Bylaw,A rule made by a local authority or corporation,L3
+Regulation,A rule or directive made and maintained by an authority,L3
+Professional Conduct,Standards of behavior expected of professionals,L3
+Municipality,A city or town with its own local government,L3
+Continuous Professional Development (CPD),Ongoing education to maintain and enhance professional skills,L3
+Supreme Court of Canada,The highest court in Canada,L3
+Court Hierarchy,The ranking of courts from lower to higher authority,L3
+Affidavit,A written statement confirmed by oath for use as evidence in court,L3
+Deposition,Testimony taken before trial under oath,L3
+Discovery,Pre-trial process to gather facts and evidence,L3
+Injunction,A court order requiring a party to do or refrain from doing something,L3
+Subpoena,A legal order requiring someone to testify in court,L3
+Malfeasance,An illegal or wrongful act,L3
+Misfeasance,An improper performance of a lawful act resulting in injury,L3
+Nonfeasance,Failure to perform an act required by law,L3
+Plaintiff,The party who initiates a lawsuit,L3
+Attorney,A person authorized to practice law and represent clients,L3
+Barrister,A lawyer entitled to practice as an advocate in higher courts,L3
+Solicitor,A lawyer who advises clients and prepares legal documents,L3
+Precedent,A previous court decision that is binding in future similar cases,L3
+Federal Statute,A law enacted by the federal government,L3
+Provincial Statute,A law enacted by a provincial government,L3
+Tort,A civil wrong causing harm or loss,L3
+Criminal Code,The body of law relating to crimes and offenses in Canada,L3
+E&G Act,Example of a provincial statute (e.g. Engineers and Geoscientists Act),L3
+Conflict of Interest (COI),A situation where personal interests could compromise professional judgment or actions,L4a
+COI,Abbreviation for Conflict of Interest,L4a
+Bias,Inclination or prejudice for or against a person or group,L4a
+Professional Ethics,Standards and principles guiding professional conduct,L4a
+Good Governance,Processes and structures for effective ethical management of an organization,L4a
+Risk Management,Identifying and addressing potential risks to an organization,L4a
+Personal Benefit,Receiving advantage or gain for oneself,L4a
+Objectivity,Ability to make decisions without personal bias,L4a
+Perceived Conflict,Conflict that appears to exist,L4a
+Indirect Benefit,Benefit received by family or associated businesses,L4a
+Disclosure,Revealing relevant information to ensure transparency,L4a
+Professional Guidelines,Rules and standards set by professional bodies (e.g.,L4a
+EGBC,Engineers and Geoscientists British Columbia (professional regulatory body),L4a
+Nepotism,Favoritism shown to relatives or friends,L4a
+Transparency,Openness about actions and decisions,L4a
+Self-Assessment,Evaluating one's own actions and decisions,L4a
+Mitigate,To reduce the severity or seriousness of something,L4a
+Competitive Bids,Process where multiple parties submit offers to win a contract,L4a
+Policy,Formal rules or principles adopted by an organization,L4a
+Compliance,Adherence to laws,L4a
+Audit,Official inspection of accounts or processes,L4a
+Reputational Damage,Harm to the good name or standing of an individual or organization,L4a
+Legal/Regulatory Penalties,Punishments imposed for breaking laws or regulations,L4a
+Three-step Approach (Disclosure, Review Process for managing conflicts of interest: disclose,L4a
+Dispute Resolution,Processes for resolving disagreements or conflicts,L4b
+Conflict Resolution,Methods and processes for resolving disputes,L4b
+Consultant,An impartial expert engaged to interpret contracts and advise on disputes,L4b
+Negotiation,Voluntary discussion to resolve disputes with or without representatives,L4b
+Non-binding Third-party Decision,A decision by an independent party that is not legally binding,L4b
+Mediation,Facilitated negotiation by a neutral third party to help parties reach agreement,L4b
+Arbitration,A private less formal  binding dispute resolution process with an arbitrator,L4b
+Litigation,The process of resolving disputes through the court system,L4b
+Impartial,Unbiased and fair; not taking sides,L4b
+Contract Performance,How well parties fulfill their contractual obligations,L4b
+Cost/Benefit Analysis,Weighing the costs and benefits of different options,L4b
+Plaintiff,The party who initiates a lawsuit,L4b
+Settlement,An agreement reached by parties to resolve a dispute,L4b
+Adjudicator,An independent third party who helps facilitate negotiations,L4b
+Mediator,A neutral third party who helps parties reach agreement,L4b
+Arbitrator,An independent person or body officially appointed to settle a dispute,L4b
+B.C. Commercial Arbitration Act,Legislation governing arbitration in British Columbia,L4b
+Binding Decision,A decision that must be followed by the parties involved,L4b
+Appeal,A request for a higher court to review a lower court's decision,L4b
+Pre-trial Disposition,Procedures before trial to resolve or narrow issues,L4b
+Trial,Formal examination of evidence in court to resolve a dispute,L4b
+Public Proceedings,Legal processes open to the public,L4b
+Third Party,Someone who is not one of the main parties in a dispute,L4b
+Full Disclosure,Revealing all relevant facts and evidence,L4b
+Witness Credibility,The trustworthiness of a witness's testimony,L4b
+Legal Precedent,A previous court decision that influences future cases,L4b
+Fact-based Decision,Decision made using objective evidence,L4b
+Contract,An agreement between parties that is enforceable by law,L5
+Offer,A proposal by one party to enter into a contract,L5
+Acceptance,Agreement to the terms of an offer,L5
+Consideration,Something of value exchanged between parties in a contract,L5
+Legal Capacity,The ability of a party to enter into a contract,L5
+Intention to Create Legal Relations,The intention of parties to form a legally binding agreement,L5
+Invitation to Treat,An invitation for others to make offers (not an offer itself),L5
+Counter-offer,A response to an offer with different terms which rejects the original offer,L5
+Nominal Consideration,A token amount (e.g. $1.00) used to satisfy the requirement for consideration,L5
+Privity of Contract,The principle that only parties to a contract are bound by it,L5
+Agent,A person authorized to act on behalf of another (principal),L5
+Principal,The person who authorizes an agent to act on their behalf,L5
+Term,A provision or duration of a contract,L5
+Amendment,A formal change to the terms of a contract,L5
+Fresh Consideration,New value exchanged to support a contract amendment,L5
+Subcontract,An agreement for another party to perform part of the obligations,L5
+Remedies,Legal means to enforce a right or redress a breach,L5
+Damages,Monetary compensation for loss or injury,L5
+Specific Performance,A court order requiring a party to fulfill their contractual obligations,L5
+Construction Contract,A contract for the construction of works between owner and contractor,L5
+Owner,The party who commissions and pays for the construction work,L5
+General Contractor,The party responsible for overall construction and management,L5
+Architect,A professional who designs buildings and oversees construction,L5
+Engineer,A professional who applies scientific principles to design and construction,L5
+Trade Contractor,A specialist hired to perform specific tasks in a construction project,L5
+Supplier,A party that provides materials or equipment for a project,L5
+Standard Form Contract,Pre-drafted contract used widely in an industry (e.g.,L5
+Canadian Construction Documents Committee (CCDC),Organization that produces standard construction contract forms in Canada,L5
+Design-Select-Build,A project delivery method where design and construction are separate contracts,L5
+Design-Build,A project delivery method where one entity handles both design and construction,L5
+Design-Builder,Entity responsible for both design and construction in a Design-Build project,L5
+Joint Venture,A business arrangement where two or more parties undertake a project together,L5
+Construction Management,A project delivery method where a construction manager coordinates contracts,L5
+Construction Manager,Person or firm hired to advise and coordinate construction contracts,L5
+Public Private Partnership (P3),A project delivery model involving collaboration between public and private sectors,L5
+Scope of Work,The total construction required by the contract documents,L5
+Contract Documents,All documents forming part of the contract (agreement,L5
+Agreement,The main contract document signed by the parties,L5
+Supplementary Conditions,Additional terms modifying the standard contract,L5
+General Conditions,Standard terms covering rights and obligations in a contract,L5
+Specifications,Detailed descriptions of materials,L5
+Drawings,Plans and diagrams showing the work to be done,L5
+Schedule,A timeline for starting,L5
+Milestone,A significant event or stage in the project schedule,L5
+Stipulated Price,Fixed contract price for the work (contractor takes risk),L5
+CCDC-2,Standard stipulated price contract form by CCDC,L5
+Cost Plus,Contract price is cost of work plus agreed profit,L5
+CCDC-3,Standard cost plus contract form by CCDC,L5
+Unit Price,Contract price based on unit quantities of work,L5
+Change Order,A written order to change the work,L5
+Change Directive,A written instruction to change the work possibly before price is agreed,L5
+Professional Liability Insurance,Insurance covering errors or omissions by professionals,L5
+General Liability Insurance,Insurance covering bodily injury or property damage,L5
+Property Insurance,Insurance covering damage to property,L5
+Performance Bond,A bond guaranteeing completion of the work,L5
+Labour and Materials Bond,A bond guaranteeing payment to workers and suppliers,L5
+Non-Performance,Failure to fulfill contractual obligations,L5
+Defect,A flaw or deficiency in the work,L5
+Terminate (Contract),To end a contract before completion,L5
+Tort,A civil wrong causing harm or loss,L6A
+Crime,An act punishable by law as a public offense,L6A
+Professional Liability,Civil liability for professional activities to clients and third parties,L6A
+Intentional Tort,A deliberate act causing injury or loss,L6A
+Negligence,Failure to exercise reasonable care,L6A
+Plaintiff,The party who initiates a lawsuit,L6A
+Defendant,The party being sued in a lawsuit,L6A
+Monetary Compensation,Money awarded to an injured party,L6A
+Private Nuisance,Interference with an individual's use or enjoyment of property,L6A
+Public Nuisance,An act affecting the public or community at large,L6A
+Strict Liability,Liability without the need to prove fault,L6A
+Defamation,False statement harming someone's reputation,L6A
+Slander,Spoken defamation,L6A
+Libel,Written defamation,L6A
+Absolute Privilege,Complete immunity from defamation liability in certain contexts,L6A
+Qualified Privilege,Protection from defamation liability under specific circumstances,L6A
+Retraction,Withdrawal or correction of a defamatory statement,L6A
+Fair Comment,Defense to defamation for opinions on matters of public interest,L6A
+Reasonable Person Test,Standard measuring conduct against what a prudent person would do,L6A
+Reasonable Foreseeability Test,Test to determine if harm was predictable to a prudent person,L6A
+Duty of Care,Legal obligation to avoid causing harm,L6A
+Misfeasance,Improper performance of a lawful act causing harm,L6A
+Nonfeasance,Failure to act when there is a duty to do so,L6A
+Donoghue v Stevenson,Landmark case establishing duty of care and product liability,L6A
+Product Liability,Legal responsibility for harm caused by defective products,L6A
+Joint and Several Liability,Multiple parties are each fully liable for the same harm,L6A
+Contributory Negligence,When the plaintiff's own negligence contributed to the harm,L6A
+Nuisance,Unreasonable interference with use or enjoyment of property,L6A
+Rylands v Fletcher,Key case in nuisance and strict liability,L6A
+Limitation Period,Time limit for bringing a legal claim,L6A
+Remoteness Test,Test to determine if the harm was a foreseeable result of the act,L6A
+Judicial Remedy,Court-ordered solution for a legal wrong,L6A
+Mental Disorder,Recognized mental harm compensable by courts,L6A
+Mental Distress,Emotional suffering not always compensable,L6A
+Technology,Application of scientific knowledge for practical purposes,L6B
+Safety,Condition of being protected from harm or danger,L6B
+AI (Artificial Intelligence),Simulation of human intelligence by machines,L6B
+Chat-GPT,AI language model capable of generating human-like text,L6B
+Slide Deck,A collection of presentation slides,L6B
+PDF (Portable Document Format),File format for capturing and sending electronic documents,L6B
+Automation,Use of technology to perform tasks without human intervention,L6B
+Risk,Possibility of harm or loss,L6B
+Hazard,Source of potential harm or danger,L6B
+Incident,An event that could lead to loss or harm,L6B
+Mitigation,Actions taken to reduce risk or harm,L6B
+Control Measure,Method to eliminate or reduce a hazard,L6B
+Personal Protective Equipment (PPE),Equipment worn to minimize exposure to hazards,L6B
+Engineering Control,Physical change to reduce risk,L6B
+Administrative Control,Procedures or policies to reduce risk,L6B
+Hierarchy of Controls,System for prioritizing risk reduction methods,L6B
+Incident Investigation,Process of analyzing events to prevent recurrence,L6B
+Root Cause Analysis,Method to identify underlying causes of incidents,L6B
+Machine Learning,Subset of AI involving algorithms that improve with experience,L6B
+Algorithm,Step-by-step procedure for calculations or problem-solving,L6B
+Data Privacy,Protection of personal or sensitive information,L6B
+Cybersecurity,Protection of computer systems from digital attacks,L6B
+Digital Ethics,Study of moral issues related to technology use,L6B
+Deepfake,AI-generated synthetic media that mimics real people,L6B
+Misinformation,False or inaccurate information,L6B
+Disinformation,Deliberately false information spread to deceive,L6B
+Viral Video,Video that spreads rapidly online,L6B
+EIT (Engineer-in-Training),Engineering graduate registered as a trainee before full licensure,L7_1
+GIT (Geoscientist-in-Training),Geoscience graduate registered as a trainee before full licensure,L7_1
+P.Eng. (Professional Engineer),Fully licensed professional engineer,L7_1
+P.Geo. (Professional Geoscientist),Fully licensed professional geoscientist,L7_1
+Professional Registration,Process of becoming a licensed engineer or geoscientist,L7_1
+Academic Requirements,Educational qualifications needed for registration,L7_1
+Washington Accord,International agreement recognizing engineering degrees,L7_1
+NCEES FE (Fundamentals of Engineering),Exam for engineering licensure in the US and recognized in Canada,L7_1
+Confirmatory Examinations,Exams assigned to applicants with non-accredited degrees,L7_1
+Student Program,Program offering resources and networking for students,L7_1
+Supervision,Requirement for trainees to work under a licensed professional,L7_1
+Work Experience,Practical engineering or geoscience experience required for registration,L7_1
+Competency-Based Framework,System for evaluating experience based on demonstrated competencies,L7_1
+Competency Experience Reporting System,Online tool for documenting and validating competencies,L7_1
+Technical Competence,Ability to apply technical knowledge and skills,L7_1
+Project/Financial Management,Managing projects and financial resources,L7_1
+Team Effectiveness,Ability to work and lead in teams,L7_1
+Professional Accountability,Responsibility for professional actions and decisions,L7_1
+Social/Economic/Environmental/Sustainability,Competency category covering broader impacts,L7_1
+Personal Continuing Professional Development,Ongoing learning and skill improvement,L7_1
+Validator,Person who confirms an applicant's work experience and competencies,L7_1
+Law & Ethics Seminar,Required seminar covering legal and ethical responsibilities,L7_1
+Professional Practice Exam (PPE),Exam testing knowledge of law and ethics for licensure,L7_1
+Registration Support,Assistance provided during the registration process,L7_1
+Enbridge Northern Gateway Pipeline,Major Canadian twin pipeline project from Alberta to Kitimat,L7.2
+Twin Pipeline,Two parallel pipelines for different substances,L7.2
+Condensate,Hydrocarbon liquid used to dilute heavy oil for transport,L7.2
+Kitimat,BC terminal for the Northern Gateway pipeline,L7.2
+Marine Berth,Docking facility for large tankers,L7.2
+Smart Pig,Inspection device for pipelines,L7.2
+National Energy Board (NEB),Canadian regulatory agency for pipelines,L7.2
+Canadian Environmental Assessment Act,Law governing environmental review of projects,L7.2
+Joint Review Panel (JRP),Panel reviewing major projects for approval,L7.2
+Certificate of Public Convenience and Necessity (CPCN),Regulatory approval required for pipeline operation,L7.2
+TERMPOL,Transport Canada process for marine terminal safety,L7.2
+Aboriginal Political Landscape,Context of Indigenous communities and rights,L7.2
+ENGO (Environmental Non-Governmental Organization),Group advocating for environmental protection,L7.2
+Exxon Valdez,1989 oil spill disaster intensifying pipeline debate,L7.2
+BP Macondo,Major oil spill (Deepwater Horizon) intensifying debate,L7.2
+SARA Species,Species at Risk Act protected species,L7.2
+Social License,Public and stakeholder acceptance of a project,L7.2
+Mitigation,Actions to reduce negative impacts,L7.2
+Spill Response,Actions taken to address oil spills,L7.2
+Risk Communication,Sharing information about risks and responses,L7.2
+Thick-Walled Pipe,Pipe designed for strength and safety,L7.2
+Shut-Off Valve,Valve to stop flow in emergencies,L7.2
+Variable Burial Depth,Adjusting pipeline depth for safety,L7.2
+Containment Structure,Engineering feature to contain spills,L7.2
+Land Tenure,Legal right to use land for the pipeline,L7.2
+Stakeholder Consultation,Engagement with affected parties,L7.2
+Media,Organizations and channels shaping public perception,L7.2
+BCIT,British Columbia Institute of Technology,L8
+OHS (Occupational Health and Safety),Field focused on workplace health and safety,L8
+WorkSafeBC (WCB),BC's workplace health and safety regulator,L8
+Employment and Social Development Canada (ESDC),Federal agency overseeing workplace standards,L8
+Technical Safety BC,Agency regulating technical systems and equipment in BC,L8
+Canadian Centre for Occupational Health and Safety (CCOHS),National resource for workplace health and safety,L8
+Employers’/Workers’ Advisers Offices,Agencies providing advice on workplace safety and compensation,L8
+Day of Mourning,Annual event commemorating workers killed or injured on the job,L8
+Workers Compensation Act (WCA),BC law promoting workplace health and safety,L8
+Canada Labour Code (CLC),Federal law for workplace health and safety,L8
+Elliot Lake Strike,1974 mining strike leading to major OHS reforms,L8
+Ham Commission,Inquiry that led to joint health and safety committees,L8
+Joint Occupational Health and Safety Committee (JOHSC),Workplace committee for health and safety,L8
+Exposure Control Plan,Plan to minimize worker exposure to hazards,L8
+Right to Refuse Unsafe Work,Worker's legal right and duty to refuse dangerous work,L8
+Hazard,Source of potential harm in the workplace,L8
+Inspection,Proactive review to identify hazards,L8
+Investigation,Reactive process after an incident,L8
+Physical Hazard,Hazard from physical sources (e.g.,L8
+Chemical Hazard,Hazard from chemicals (e.g.,L8
+Biological Hazard,Hazard from biological agents (e.g.,L8
+Ergonomic Hazard,Hazard from poor workplace design or repetitive motion,L8
+Psychosocial Hazard,Hazard from stress,L8
+Safe Work Procedure (SWP),Documented steps for performing tasks safely,L8
+Part 3.5,BC OHS regulation for regular inspections,L8
+Part 3.7,BC OHS regulation for special inspections after incidents,L8
+Part 3.8,BC OHS regulation for JHSC participation in inspections,L8
+Annual Evaluation (Part 3.26),Yearly review of joint health and safety committees,L8
+Training Requirement (Part 3.27),Mandatory training for new committee members,L8
+Investigation Participation (Part 3.28),Requirement for committee involvement in investigations,L8
+Mill Explosions (Prince George & Burns Lake),2012 incidents leading to OHS regulation changes,L8
+Employment Law,Legal framework governing employer-employee relationships,8a
+Labour Law,Law governing collective bargaining and unions,8a
+Employment Standards Act,BC law setting minimum employment standards,8a
+Workers Compensation Act,BC law for workplace injury compensation,8a
+Human Rights Code,BC law prohibiting discrimination,8a
+Personal Information Protection Act (PIPA),BC law protecting personal information,8a
+Freedom of Information and Protection of Privacy Act (FOIPPA),BC law on access to and privacy of information,8a
+Professional Governance Act,BC law regulating professions,8a
+Canada Labour Code,Federal law for employment standards and workplace safety,8a
+Canadian Human Rights Act,Federal law prohibiting discrimination,8a
+Common Law,Law developed by court decisions,8a
+Statutory Law,Law enacted by legislative bodies,8a
+Regulatory Framework,Set of rules and regulations governing employment,8a
+Professional Regulation,Oversight of professions to protect the public,8a
+Contract,Legally binding agreement between parties,8a
+Probationary Period,Initial period of employment for assessment,8a
+Restrictive Covenant,Contract clause limiting post-employment activities,8a
+Termination Clause,Contract term specifying end of employment,8a
+Wrongful Dismissal,Unlawful termination of employment,8a
+Dismissal With Cause,Termination for serious misconduct,8a
+Dismissal Without Cause,Termination requiring notice or compensation,8a
+Non-Solicitation Agreement,Clause preventing solicitation of clients or staff post-employment,8a
+Injunctive Relief,Court order to prevent or require actions,8a
+Good Faith,Employee duty to act honestly and loyally,8a
+Confidentiality,Obligation to keep information private,8a
+Non-Competition,Restriction on working for competitors post-employment,8a
+Fiduciary Duty,Highest standard of care and loyalty,8a
+Bardal Factors,Criteria for assessing reasonable notice in dismissal,8a
+Software Licensing Agreement,Contract governing use of software,8a
+Disciplinary Action,Penalties for violating workplace rules,8a
+Mitigation,Employee duty to minimize losses after dismissal,8a
+TeBaerts v. Penta Builders,Case on privacy rights in employment,8a
+R v. Cole,Case on employee privacy and employer supervision,8a
+Indigenous Peoples,Original inhabitants of a region,L9
+Paleo-Indians,First inhabitants of Canada,L9
+First Nations,Indigenous peoples in Canada who are not Inuit or Métis,L9
+Indian Reserve,Land set aside for First Nations by the government,L9
+Colonization,Process of settling among and controlling Indigenous peoples,L9
+Residential School,Institution for assimilating Indigenous children,L9
+Royal Proclamation of 1763,Document establishing principles for Indigenous rights and land,L9
+Constitution Act,Canadian law outlining rights of Aboriginal Peoples,L9
+Section 91(24),Constitution section on “Indians and Lands Reserved for Indians”,L9
+Indian Act,Canadian law governing many aspects of Indigenous life,L9
+Indigenous and Tribal Peoples Convention,1989 international agreement on Indigenous rights,L9
+Charter of Rights and Freedoms,Canadian constitutional document guaranteeing rights and freedoms,L9
+Legal Responsibility,Obligation to follow laws and agreements,L9
+Ethical Responsibility,Obligation to follow professional and moral standards,L9
+Moral Responsibility,Universal obligation to do what is right,L9
+Land Claim,Assertion of Indigenous rights to land,L9
+Aboriginal Title,Legal recognition of Indigenous land ownership,L9
+Truth and Reconciliation,Process of addressing past injustices to Indigenous peoples,L9
+Cultural Respect,Recognition and valuing of different cultures,L9
+Passing Off,Legal action to protect unregistered trademarks (context: “to the victor belong the spoils”),L9
+Insurance,Contract for financial protection against loss,9_1
+General Liability Insurance,Covers bodily injury/property damage claims,9_1
+Property Insurance,Covers loss/damage to business property,9_1
+Business Owner’s Policy,Bundled insurance (property,9_1
+Worker’s Compensation,Mandatory insurance for employees covering work injuries,9_1
+Professional Liability Insurance (Errors and Omissions),Covers errors/omissions in professional services,9_1
+Secondary Professional Liability Insurance,Mandatory for BC engineers w/ $250k coverage,9_1
+APEGBC,Association of Professional Engineers and Geoscientists of BC,9_1
+Coverage Limit,Maximum amount insurer will pay,9_1
+Premium,Payment for insurance coverage,9_1
+Exclusion,Condition not covered by insurance,9_1
+Claim,Request for payment under an insurance policy,9_1
+Insurer,Company providing insurance,9_1
+Insured,Person or entity covered by insurance,9_1
+Water Line Insurance,Insurance for water line repairs (often unnecessary),9_1
+Credit Card Insurance,Insurance for credit card payments (often not recommended),9_1
+EGBC,Engineers and Geoscientists BC,9_1
+APEGBC Bulletin H-1,Guidance on professional liability insurance program,9_1
+APEGBC Bulletin H-2,Guidance on choosing an insurance carrier,9_1
+Engineers Canada,National organization for engineers,9_1
+ACEC,Association of Consulting Engineering Companies,9_1
+Environmental Engineering Risk,Liability from contamination (soil,9_1
+Peril,Insurable risk or cause of loss,9_1
+Sole Practitioner,Individual professional operating alone,9_1
+Intellectual Property (IP),Product of the mind; intangible rights to use/exclude others,10_1
+Statutory IP,Intellectual property protected by statute (e.g.,10_1
+Patent,Exclusive right to an invention,10_1
+Industrial Design,Protection for the visual design of objects,10_1
+Trademark,Sign or symbol distinguishing goods/services,10_1
+Copyright,Protection for literary,10_1
+Integrated Circuit Topography,Protection for the design of microchip layouts,10_1
+Plant Breeder’s Rights,Protection for new varieties of plants,10_1
+Non-Statutory IP,Intellectual property not protected by statute (e.g.,10_1
+Unregistered Trademark,Trademark rights established by use,10_1
+Trade Secret,Confidential business information with economic value,10_1
+Colloquial IP,Informal IP like customer lists,10_1
+Patent Claim,Defines the scope of patent protection,10_1
+Novelty,Requirement that an invention is new,10_1
+Non-Obviousness,Requirement that an invention is inventive,10_1
+Utility,Requirement that an invention is useful and works,10_1
+Ineligible Subject Matter,Things that cannot be patented (e.g.,10_1
+Assignment,Transfer of IP ownership,10_1
+Licensing,Permission to use IP under defined terms,10_1
+Cross-Licensing,Mutual exchange of licenses between parties,10_1
+Non-Disclosure Agreement (NDA),Contract to keep information confidential,10_1
+Non-Compete Agreement,Contract restricting competition after employment,10_1
+Cease & Desist,Formal demand to stop infringing activity,10_1
+Counterfeiting,Unauthorized imitation of IP-protected goods,10_1
+Ownership (IP),Legal right to possess and control IP,10_1
+Joint Ownership,IP owned by more than one party,10_1
+Devolution,Transfer of IP rights by operation of law,10_1
+Expungement,Removal of a trademark from the register,10_1
+Passing Off,Protecting unregistered trademarks from misrepresentation,10_1
+Distinctiveness,Quality making a trademark capable of identifying source,10_1
+Examination Delay,Time taken for trademark application review,10_1
+Grace Period,Time allowed to file for IP protection after disclosure,10_1
+Breach of Confidence,Unauthorized use/disclosure of confidential information,10_1
+Fiduciary Relationship,Relationship of trust (e.g.,10_1
+Prior Acts,Coverage for acts before an insurance policy or IP filing,10_1
+Sustainability,Meeting present needs without compromising future generations; balance of ecological limits and social justice,10_2
+Doughnut Economics,Framework for sustainable development balancing social and ecological needs,10_2
+Ecological Limits,Planetary boundaries that must not be exceeded for sustainability,10_2
+Social Justice,Fair and equitable treatment of all people,10_2
+Regenerating Systems,Systems that restore and renew resources,10_2
+Degenerating Systems,Systems that deplete or degrade resources,10_2
+BCIT,British Columbia Institute of Technology,10_2
+STARS Categories,Academics & planning & admin & engagement &  Innovation & Leadership (sustainability framework),10_2
+SDG Accord,Commitment to UN Sustainable Development Goals,10_2
+Living Lab,Campus used as a hands-on environment for sustainability learning,10_2
+Climate/GHG Neutral,No net greenhouse gas emissions,10_2
+Zero Waste,Eliminating waste through reuse,10_2
+Water Balanced,Using and replenishing water sustainably,10_2
+Ecologically Restored,Returning ecosystems to a healthy state,10_2
+Universally Accessible,Accessible to all people regardless of ability,10_2
+Climate Passion Project,Personal project aligning skills,10_2
+Sit Spot Exercise,Mindfulness activity to foster nature awareness,10_2
+Engineers Canada,National organization for engineers,10_2
+Eco Canada,Organization supporting environmental careers,10_2
+CaGBC,Canada Green Building Council,10_2
+BCIT Enactus,Student club for social innovation and sustainability,10_2
+UN Sustainable Development Goals (SDGs),Global goals for sustainable development,10_2
+Christina Olsen,Acting Director,10_2
+Respect,Valuing others and treating them with dignity,10_3
+RDI Office,Respect,10_3
+Harassment & Discrimination (H&D) Policy,BCIT policy prohibiting harassment and discrimination,10_3
+Discrimination,Unfair treatment based on protected characteristics,10_3
+Harassment,Unwelcome conduct causing offense or humiliation,10_3
+Bullying,Inappropriate conduct causing humiliation or intimidation,10_3
+Protected Characteristic,Personal attribute protected by law (e.g.,10_3
+Duty to Accommodate,Legal obligation to provide reasonable adjustments for protected characteristics,10_3
+Code Related Harassment,Harassment related to a protected characteristic,10_3
+Sexual Harassment,Unwelcome sexual conduct or comments,10_3
+WorkSafe BC,BC workplace health and safety regulator,10_3
+Reasonable Person Standard,Test for whether conduct is considered harassment,10_3
+Unwelcoming Environment,Workplace or learning setting that is not inclusive,10_3
+Gender Bias,Prejudice or discrimination based on gender,10_3
+Student Counselling,BCIT support service for students,10_3
+Student Association Advocacy Office,BCIT resource for student support,10_3
+Student Life Office,BCIT office supporting student well-being,10_3
+BC Human Rights Tribunal,Provincial body addressing human rights complaints,10_3
+Accommodation,Adjustment to remove barriers and provide equal opportunity,10_3
+Undue Hardship,Limit to the duty to accommodate based on significant difficulty or expense,10_3
+Misgendering,Refusing to use someone's chosen name or pronouns,10_3
+Diversity,Engaging a range of perspectives and backgrounds,11_DEI
+Equity,Ensuring fair treatment,11_DEI
+Inclusion,Creating environments where all individuals feel welcomed and valued,11_DEI
+DEI,Diversity,11_DEI
+Underrepresented Groups,Populations with lower participation in engineering (e.g.,11_DEI
+Systemic Barriers,Structural obstacles that limit access or opportunity,11_DEI
+Equity Initiatives,Programs or policies to remove barriers and promote fairness,11_DEI
+Engineers Canada,National organization promoting engineering and DEI,11_DEI
+Collaborative Networks,Partnerships among regulators,11_DEI
+Public Interest,The well-being of society as a whole,11_DEI
